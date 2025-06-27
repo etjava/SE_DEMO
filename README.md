@@ -1,4 +1,5 @@
 # SE_DEMO
 > random project
->
-> ![1](C:\Users\etjav\Desktop\1.png)
+> 
+![1](https://github.com/user-attachments/assets/f549cfde-b728-493a-8478-9156b78e5cee)
+
